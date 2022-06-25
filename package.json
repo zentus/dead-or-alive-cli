@@ -1,6 +1,6 @@
 {
   "name": "dead-or-alive-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "devDependencies": {
     "parcel": "^1.9.7"
   },
-	"bin": {
-		"dead-or-not": "app.js"
-	}
+  "bin": {
+    "dead-or-not": "app.js"
+  }
 }
