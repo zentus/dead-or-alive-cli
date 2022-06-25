@@ -6,7 +6,6 @@ const systemLocale = require('os-locale')
 const log = console.log
 const dateFormat = require('dateformat')
 
-
 const question = prompts({
     type: 'text',
     name: 'personName',
